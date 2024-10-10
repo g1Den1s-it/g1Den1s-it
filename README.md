@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g1den1s-it&label=Profile%20views&color=0e75b6&style=flat" alt="g1den1s-it" /> </p>
 
-- 🔭 I’m currently working on [mindtify](https://github.com/g1Den1s-it/mindtify_backend)
-
-- 🌱 I’m currently learning **React, Flask**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
